@@ -1,0 +1,13 @@
+{
+    "name": "SEMPAI/totem-makeup",
+    "require": {
+        "codeigniter/hmvc_xajax_ci": "dev-master",
+        "phpmailer/phpmailer": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "kristdev",
+            "email": "pambeaba@yahoo.fr"
+        }
+    ]
+}

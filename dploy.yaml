@@ -1,0 +1,10 @@
+dev:
+    scheme: ftp
+    host: ftp.kristdev.com
+    port: 21
+    user: kristdev
+    pass: temporary@43321
+    check: true
+    exclude: ["dploy.yaml", "totem-makeup.sublime-project", "totem-makeup.sublime-workspace", "composer.json", "composer.lock", ".bowerrc", "assets/sql/*"]
+    path:
+        remote: public_html/mproject/files/totem-makeup/
